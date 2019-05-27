@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+Inline-style: 
+![alt text](https://github.com/x-hire/x-hire.github.io/raw/master/p1.gif "Logo Title Text 1")
+
+
 You can use the [editor on GitHub](https://github.com/x-hire/x-hire.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
